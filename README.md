@@ -20,11 +20,11 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitSimionatto&show_icons=true&theme=radical&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitSimionatto&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitSimionatto&layout=compact&theme=radical&title_color=00ff00&text_color=ffffff&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitSimionatto&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0d1117)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gitSimionatto&theme=dark&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gitSimionatto&theme=dark&ring=ff0000&fire=ff0000&currStreakLabel=ff0000)
 
 </div>
 
@@ -42,7 +42,7 @@
 ## 📈 Gráfico de contribuições
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gitSimionatto&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gitSimionatto&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -51,7 +51,7 @@
 ## 👀 Visitantes e Contador ao Vivo
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=gitSimionatto&color=00ff00)  
+![Visitor Count](https://komarev.com/ghpvc/?username=gitSimionatto&color=ff0000)  
 <img src="https://widgetbite.com/stats/9f1a7a2b-8d6c-4c2f-9f88-3a36d8b7f645" alt="watching_count" />
 
 </div>
@@ -86,3 +86,5 @@
 ---
 
 > 💡 *"Código limpo é como humor: quando você tem que explicar, não é tão bom."*
+
+nesse meu readme do github, esta no thema vermelho... poderia deixalo no thema verde ?
